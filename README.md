@@ -1,5 +1,5 @@
 # Some-Softuni-Exercises
-I lost all my work for the last two- three years of programming. Luckily i could download some of my Submissions from Judge system of SoftUni
+I lost all my work for the last two- three years of programming. Luckily i was able to find incredibely small bit of my work and i was able to download some of my Submissions from Judge system of SoftUni
 
 
 
